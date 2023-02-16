@@ -1,0 +1,2 @@
+Chipbank Import ไฟล์งาน (.zip in \\172.16.0.3\CBOutput) เข้า  \\172.16.0.3\CBOutput\BACKUP เป็นงานใหม่ประจำวัน
+Task จะ Unzip ไปที่ \\172.16.0.115\WaferMapping
