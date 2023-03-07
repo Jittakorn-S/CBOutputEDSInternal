@@ -1,6 +1,6 @@
-# CBOutputEDSInternal
+# CB Output EDS Internal
 
-CBOutputEDSInternal is a .NET Framework task application for auto unzip file to folder.
+CB Output EDS Internal is a .NET Framework task application for auto unzip file to folder.
 
 ## Installation
 
