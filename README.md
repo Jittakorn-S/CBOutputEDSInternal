@@ -28,9 +28,9 @@ Before running the application, you need to configure the paths in the `App.conf
 ```xml
 <configuration>
 	<appSettings>
-		<add key="PathCBOutput" value="C:\Users\user446\Desktop\CBOutput\BACKUP"/>
-		<add key="PathWaferMapping" value="C:\Users\user446\Desktop\WaferMapping\"/>
-		<add key="Logfile" value="C:\Users\user446\Desktop\log\LogFile.txt"/>
+		<add key="PathCBOutput" value="C:\Users\Desktop\CBOutput\BACKUP"/>
+		<add key="PathWaferMapping" value="C:\Users\Desktop\WaferMapping\"/>
+		<add key="Logfile" value="C:\Users\Desktop\log\LogFile.txt"/>
 	</appSettings>
 </configuration>
 ```
